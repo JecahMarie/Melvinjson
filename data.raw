@@ -1,0 +1,16 @@
+{
+  "student": [
+    {
+      "name": "Melvin Dave Debulgado",
+      "age": 21,
+      "quote": "stay lowkey"
+    }
+    ],
+  "section": [
+    {
+      "section": "BSIT - 3B",
+      "code": "T230",
+      "email": "2001105016@student.buksu.edu.ph"
+    }
+  ]
+}
